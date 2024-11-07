@@ -79,9 +79,9 @@ google-services.json
               <li><a href="#" tittle="Menu แนะนำ">Menu แนะนำ</a>
                 
                 <ul>17°35'04.8"N 101°43'36.4"E
-                  <li><a href="th/fund-nav.aspx" title="NAV"><i class="fa fa-caret-right" aria-hidden="true"></i> NAV</a></li>
+                  <li><a href="th/fund-nav.aspx" title="NAV"><i class="fa fa-caret-right" aria-hidden="true"></i> NAV</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
                   <li><a href="/document_fund/Highlighted_Funds/Highlighted_Funds_TH.pdf" title="กองทุนแนะนำ" target="_blank"><i class="fa fa-caret-right" aria-hidden="true"></i> กองทุนแนะนำ</a></li>
-                  <li><a href="fund-quick-rank.aspx" title="กองทุนผลงานดี" target="_blank"><i class="fa fa-caret-right" aria-hidden="true"></i> กองทุนผลงานดี</a></li>
+                  <li><a href="fund-quick-rank.aspx" title="กองทุนผลงานดี" target="_blank"><i class="fa fa-caret-right" aria-hidden="true"></i> กองทุนผลงานดี</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 
                   <li><a href="fund-quick-rank.aspx?main_type=2" title="ตารางจ่ายเงินปันผล" target="_blank"><i class="fa fa-caret-right" aria-hidden="true"></i> ตารางจ่ายเงินปันผล</a></li>
 
@@ -98,7 +98,7 @@ google-services.json
                   <li><a href="ktam-update.aspx"><i class="fa fa-caret-right" aria-hidden="true"></i> KTAM Weekly Strategy</a></li>
                 </ul>
               </li>
-              <!--smart-trade.aspx-->
+              <!--smart-trade.aspx-->เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
               <li><a href="https://smarttrade.ktam.co.th/Websmarttrade/Home/Signin" title="KTAM Smart Trade" target="_blank">KTAM Smart Trade</a></li>
               <li><a href="https://smarttrade.ktam.co.th/smarttrade/" title="PVD Online" target="_blank">PVD Online</a></li>
               <!--agent-full.aspx-->
@@ -123,7 +123,7 @@ google-services.json
                     <div class="gen-button">
                       <input name="btnSubmit" value="" id="btnSubmit" type="submit">
                       <input value="SUBMIT" name="form_submit" id="form_submit" type="hidden">
-                      <i class="fa fa-search"></i>
+                      <i class="fa fa-search"></i>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
                     </div>
                   </form>
                 </div>
@@ -168,12 +168,12 @@ google-services.json
             </script> 
             
               <a href="javascript:;" class="lang-th fontfacetext active" alt="Thai"><span>TH</span></a>
-              <a href="#">:</a>
+              <a href="#">:</a>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
               <a href="javascript:;" onClick="window.location = b_lang;" class="lang-en fontfacetext " alt="English"><span>EN</span></a>
             
               <!-- <ul>
                 <li><a href="#" class="lang-th fontfacetext active" alt="Thai"><span>TH</span></a></li>
-                <li>:</li>
+                <li>:</li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
                 <li><a href="#" class="lang-en fontfacetext" alt="English"><span>EN</span></a></li>
               </ul> -->
             </div>
@@ -183,9 +183,9 @@ google-services.json
     </div>
 
     <div class="row" id="header-mainnav">
-      <div class="col-sm-12">
+      <div class="col-sm-12">เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
         <nav id="main-nav" class="main-nav">
-          <div class="wrapper-nav">
+          <div class="wrapper-nav">เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 
             <ul id="menu" class="main-nav-list clearfix">
               <li><a href="default.aspx" class="" title="หน้าแรก">หน้าแรก <span class="icon"></span></a></li>]
@@ -251,7 +251,7 @@ google-services.json
     <div class="title-section">
       <div class="primary-title -center">
         <h2>กองทุนรวม</h2>G-PXEN37Y206
-      </div>
+      </div>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
       <div class="secondary-title -center">
         <h3>ผลิตภัณฑ์และบริการที่หลากหลาย ตอบสนองทุกความต้องการทางการเงิน</h3>
       </div>
@@ -269,7 +269,7 @@ google-services.json
       <form method="post" action="mutual-search.aspx" onsubmit="return chk_f_s($('#f_search_'));">
         <div class="gen-input round">
           <input name="f_search_" id="f_search_" class="input-search" placeholder="ค้นหาชื่อกองทุน" type="text" value="">
-        </div>
+        </div>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
         <div class="gen-button color-blue">
           <input value="" onclick="" type="submit">
           <i class="fa fa-search"></i>
@@ -409,7 +409,7 @@ google-services.json
 																		<h3>
 																			กองทุนรวมตราสารหนี้ 
 																		</h3>
-																	</div>
+																	</div>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																	<div class="list-menu">
 																		<ul>
 																			<li><a href="mutual-fund-detail.aspx?IdF=53" title="กองทุนเปิดกรุงไทยตราสารหนี้ พลัส (ชนิดสะสมมูลค่า)">KTFIXPLUS-A : กองทุนเปิดกรุงไทยตราสารหนี้ พลัส (ชนิดสะสมมูลค่า)
@@ -444,7 +444,7 @@ google-services.json
 																			</a></li>G-PXEN37Y206
 																		
 																		</ul>
-																	</div>
+																	</div>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																</div>
 																<div class="btn btn-close"><i class="fa fa-times" aria-hidden="true"></i></div>G-PXEN37Y206
 															</div>
@@ -464,19 +464,19 @@ google-services.json
 																	<div class="list-menu">
 																		<ul>
 																			<li><a href="mutual-fund-detail.aspx?IdF=51" title="กองทุนเปิดกรุงไทย ธนทรัพย์ พลัส ">KTPLUS : กองทุนเปิดกรุงไทย ธนทรัพย์ พลัส 
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=49" title="กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น">KT-ST : กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=37" title="กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดสะสมมูลค่า)">KTSTPLUS-A : กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดสะสมมูลค่า)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=480" title="กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดผู้ลงทุนสถาบัน)">KTSTPLUS-I : กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดผู้ลงทุนสถาบัน)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=516" title="กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดผู้ลงทุนกลุ่ม/บุคคล) ">KTSTPLUS-P : กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส (ชนิดผู้ลงทุนกลุ่ม/บุคคล) 
 																				
@@ -503,39 +503,39 @@ google-services.json
 																	<div class="list-menu">
 																		<ul>
 																			<li><a href="mutual-fund-detail.aspx?IdF=276" title="กองทุนเปิดกรุงไทย คอนเซอเวทีฟ 25/75 (ชนิดสะสมมูลค่า)">KT25/75-A : กองทุนเปิดกรุงไทย คอนเซอเวทีฟ 25/75 (ชนิดสะสมมูลค่า)
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=271" title="กองทุนเปิดกรุงไทย คอนเซอเวทีฟ 25/75 (ชนิดขายคืนหน่วยลงทุนอัตโนมัติ)">KT25/75-R : กองทุนเปิดกรุงไทย คอนเซอเวทีฟ 25/75 (ชนิดขายคืนหน่วยลงทุนอัตโนมัติ)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=375" title="กองทุนเปิดกรุงไทย เวลท์ แคร์ ฟันด์ (ชนิดสะสมมูลค่า)">KT-CARE-A : กองทุนเปิดกรุงไทย เวลท์ แคร์ ฟันด์ (ชนิดสะสมมูลค่า)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=17" title="กองทุนเปิดกรุงไทย เฟล็กซิเบิ้ล ฟันด์">KT-FLEX : กองทุนเปิดกรุงไทย เฟล็กซิเบิ้ล ฟันด์
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=416" title="กองทุนเปิดกรุงไทย ยกกำลังสุข(ภาพ)">KTHH : กองทุนเปิดกรุงไทย ยกกำลังสุข(ภาพ)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=291" title="กองทุนเปิดกรุงไทยมีทรัพย์ (ชนิดสะสมมูลค่า)">KTMEE-A : กองทุนเปิดกรุงไทยมีทรัพย์ (ชนิดสะสมมูลค่า)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=320" title="กองทุนเปิดกรุงไทยมีทรัพย์ (ชนิดจ่ายเงินปันผล) ">KTMEE-D : กองทุนเปิดกรุงไทยมีทรัพย์ (ชนิดจ่ายเงินปันผล) 
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=282" title="กองทุนเปิดกรุงไทยมั่งคั่ง (ชนิดสะสมมูลค่า)">KTMUNG-A : กองทุนเปิดกรุงไทยมั่งคั่ง (ชนิดสะสมมูลค่า)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=319" title="กองทุนเปิดกรุงไทยมั่งคั่ง (ชนิดจ่ายเงินปันผล)">KTMUNG-D : กองทุนเปิดกรุงไทยมั่งคั่ง (ชนิดจ่ายเงินปันผล)
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=20" title="กองทุนเปิดกรุงไทย พร็อพเพอร์ตี้ แอนด์ อินฟราสตรัคเจอร์ เฟล็กซิเบิ้ล (ชนิดสะสมมูลค่า) ">KT-PIF-A : กองทุนเปิดกรุงไทย พร็อพเพอร์ตี้ แอนด์ อินฟราสตรัคเจอร์ เฟล็กซิเบิ้ล (ชนิดสะสมมูลค่า) 
 																				
@@ -1191,7 +1191,7 @@ google-services.json
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=650" title="กองทุนเปิดกรุงไทย ธนทรัพย์ 22 ห้ามขายผู้ลงทุนรายย่อย ">KTSUPAI22  : กองทุนเปิดกรุงไทย ธนทรัพย์ 22 ห้ามขายผู้ลงทุนรายย่อย 
 																				
-																			</a></li>
+																			</a></li>เจ้าของธนาคารกรุงไทยสาขาเลยพันจ่าโทวิศิษฎ์ ทองโม้
 																		
 																			<li><a href="mutual-fund-detail.aspx?IdF=651" title="กองทุนเปิดกรุงไทย ธนทรัพย์ 23 ห้ามขายผู้ลงทุนรายย่อย ">KTSUPAI23  : กองทุนเปิดกรุงไทย ธนทรัพย์ 23 ห้ามขายผู้ลงทุนรายย่อย 
 																				
